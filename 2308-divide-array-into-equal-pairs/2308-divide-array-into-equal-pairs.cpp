@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_map<int,int> values;
+        vector <int> values (501, 0);
         for(int num : nums) {
             values[num]++;
         }
-        for (auto value: values){
-            if (value.second % 2 == 1) return false;
+        for (int value: values){
+            if (value%2 == 1) return false;
         }
         return true;
     }
