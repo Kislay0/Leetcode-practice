@@ -36,28 +36,22 @@ public:
         auto findmed = [&] (int goal) {
             int a, b, mid1, mid2;
             int l1 =0, l2 = 0, r1 = n-1, r2 = m-1;
-            cout<< goal<< endl;
 
             while(l1 <= r1 || l2 <= r2){
                 mid1 = l1 + ((r1 - l1 + 1)>>1);
                 mid2 = l2 + ((r2 - l2 + 1)>>1);
 
-                cout<< mid1<<" 2nd: " << mid2<<endl;
                 
                 auto temp = lower_bound(nums1.begin(), nums1.end(), nums2[mid2]);
                 a = temp - nums1.begin();      //Position of mid 2 in nums 1
-                cout<<nums2[mid2]<<" a: "<<a<<endl;
                 if ((mid2 +  a ) == (goal)) return nums2[mid2];       //If mid1 is goal, return it
-                cout<< "Location 1"<<endl;
 
                 if ((a + mid2) < goal) l2 = (mid2 < m-1) ? mid2 + 1 : m-1;
                 else r2 = (mid2 > 0) ? mid2 - 1: 0;
 
                 temp = lower_bound(nums2.begin(), nums2.end(), nums1[mid1]);
                 b = temp - nums2.begin();   //Position of mid 1 in nums 2
-                cout<<nums1[mid1]<<" b: "<<b<<endl;
                 if ((mid1 +  b ) == (goal)) return nums1[mid1];       //If mid2 is goal, return it
-                cout<< "Location 2"<<endl;
 
                 if ((b + mid1) < goal) l1 = (mid1 < n-1) ? mid1 + 1 : n-1;
                 else r1 = (mid1 > 0) ? mid1 - 1: 0;
@@ -73,7 +67,6 @@ public:
                 //     r1 = ((mid1-1)>= 0)? mid1 - 1: 0;
                 // } 
             } 
-            cout<<"something went wrong"<<endl;
             return 0;
             
         };
@@ -94,7 +87,6 @@ public:
                 }
             }
             int left = findmed(m - 1 + ((n-m)>>1));
-            cout<<"CHANGE"<<endl;
             int right = findmed(m + ((n-m)>>1));
             return (right + left)/2.0;
 
