@@ -1,25 +1,24 @@
 class Solution {
 public:
-    bool timeIsSuff(vector<int>& ranks, int cars, long long minGiven) {
-        long long carsDone = 0;
-        for (int r : ranks) {
-            long long c2 = minGiven / r;
-            long long c = floor(sqrt(c2));
-            carsDone += c;
-        }
-        return carsDone >= cars;
-    }
-    
     long long repairCars(vector<int>& ranks, int cars) {
-        long long l = 1, r = 1e14;
-        while (l < r) {
-            long long mid = (l + r) / 2;
-            if (timeIsSuff(ranks, cars, mid)) {
-                r = mid;
-            } else {
-                l = mid + 1;
+        long long mid, lo = 0;
+        long long hi = *min_element(ranks.begin(),ranks.end());
+        hi *= (long long)cars*cars;
+
+        auto ttlrepair = [&] (long long t){
+            long long total = 0;
+            for (int rank : ranks){
+                total += sqrt(t/rank);
             }
+            return total;
+        };
+        while(lo<hi){
+            mid = lo + ((hi - lo)>>1);
+            if (ttlrepair(mid)>=cars){
+                hi = mid;
+            }
+            else lo = mid + 1;
         }
-        return l;
+        return lo;
     }
 };
