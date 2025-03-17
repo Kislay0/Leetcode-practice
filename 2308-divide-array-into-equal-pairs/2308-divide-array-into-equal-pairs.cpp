@@ -1,12 +1,13 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_set<int> values = {};
+        unordered_map<int,int> values;
         for(int num : nums) {
-            if (values.find(num) == values.end()) values.insert(num);
-            else values.erase(num);
+            values[num]++;
         }
-        if (values.size() == 0) return true;
-        return false;
+        for (auto value: values){
+            if (value.second % 2 == 1) return false;
+        }
+        return true;
     }
 };
