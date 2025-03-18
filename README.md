@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Kislay0/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Kislay0/Leetcode-practice/tree/master/2665-minimum-time-to-repair-cars) |
 ## Binary Search
 |  |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -43,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
