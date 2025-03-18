@@ -14,7 +14,7 @@ public:
         return x;
     }
     int longestNiceSubarray(vector<int>& nums) {
-        if (nums.size() <= 1) return nums.size();
+        if (nums.size() == 1) return 1;
         int lo = 0;
         int curr = 1, ans = 1;
         for (int hi = 1; hi < nums.size(); hi++){
@@ -25,7 +25,7 @@ public:
             }
             lo = newlo;
             ans = max(curr, ans);
-            curr = hi - newlo+1;
+            curr = hi - newlo + 1;
         }
         ans = max(curr, ans);
         return ans;
