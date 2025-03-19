@@ -3,10 +3,7 @@ public:
     int minOperations(vector<int>& nums) {
         auto flip = [&] (int left){
             for (int i = left; i <= left + 2; i++){
-                if (nums[i] == 0){
-                    nums[i] = 1;
-                }
-                else nums[i] = 0;
+                nums[i] ^= 1;
             }
         };
         int n = nums.size();
