@@ -2,9 +2,9 @@ class Solution {
 public:
     int minOperations(vector<int>& nums) {
         auto flip = [&] (int left){
-            for (int i = left; i <= left + 2; i++){
-                nums[i] ^= 1;
-            }
+            nums[left] ^= 1;
+            nums[left+1] ^= 1;
+            nums[left+2] ^= 1;
         };
         int n = nums.size();
         int cnt = 0;
