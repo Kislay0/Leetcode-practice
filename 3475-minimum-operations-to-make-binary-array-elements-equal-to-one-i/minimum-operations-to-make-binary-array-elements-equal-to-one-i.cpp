@@ -6,8 +6,8 @@ public:
             if(nums[i] == 0){
                 ans ++;
                 if(i + 2 >= n) return -1;
-                nums[i + 1] = 1 - nums[i + 1];
-                nums[i + 2] = 1 - nums[i + 2];
+                nums[i + 1] ^= 1;
+                nums[i + 2] ^= 1;
             }
         }
 
