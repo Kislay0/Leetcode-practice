@@ -1,11 +1,9 @@
 class Solution {
 public:
     int maximumCount(vector<int>& nums) {
-        int pos = 0, neg = 0;
-        for (int num: nums){
-            if (num < 0) neg++;
-            else if (num>0) pos++;
-        }
+        int pos = upper_bound (nums.begin(), nums.end(),0) -nums.begin();
+        pos = nums.size()- pos;
+        int neg = lower_bound(nums.begin(), nums.end(),0) -nums.begin();
         return (pos>neg) ? pos : neg;
     }
 };
