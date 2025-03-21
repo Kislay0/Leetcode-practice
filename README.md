@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Kislay0/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kislay0/Leetcode-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kislay0/Leetcode-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -86,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
