@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kislay0/Leetcode-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Kislay0/Leetcode-practice/tree/master/2665-minimum-time-to-repair-cars) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kislay0/Leetcode-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kislay0/Leetcode-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
@@ -77,4 +78,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kislay0/Leetcode-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Simulation
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
