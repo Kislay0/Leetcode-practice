@@ -1,7 +1,6 @@
 class Solution {
 public:
     int maxValue(int n, int index, int maxSum) {
-        if (n > maxSum) return -1;
         if (n == maxSum) return 1;
         auto cursum = [&](int x){
             if (x> index){
