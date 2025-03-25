@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kislay0/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Kislay0/Leetcode-practice/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kislay0/Leetcode-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Kislay0/Leetcode-practice/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
@@ -121,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kislay0/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Greedy
+|  |
+| ------- |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Kislay0/Leetcode-practice/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 <!---LeetCode Topics End-->
