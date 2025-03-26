@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Kislay0/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/Kislay0/Leetcode-practice/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Kislay0/Leetcode-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
@@ -126,4 +128,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Kislay0/Leetcode-practice/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+## Math
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
