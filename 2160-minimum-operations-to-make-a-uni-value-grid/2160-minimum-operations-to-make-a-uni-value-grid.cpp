@@ -1,5 +1,7 @@
+const auto _ = std::cin.tie(nullptr)->sync_with_stdio(false);
 class Solution {
 public:
+
     int minOperations(vector<vector<int>>& grid, int x) {
         vector<int> values;
         for(auto row: grid){
