@@ -6,20 +6,18 @@ public:
         for (int num: nums){
             mp[num]++;
         }
-        int n = nums.size();
-        vector<vector<int>> freq(n+1);
+        multimap<int, int, greater<int>> MM;
         for (auto val : mp){
-            freq[val.second].push_back(val.first);
+            MM.insert({val.second, val.first});
         }
-        vector <int> ans;
-        for (int i = freq.size()-1; i>= 0; i--){
-            for (auto x: freq[i]) {
-                ans.push_back(x);
-                if(--k == 0) return ans;
-            }
+        int i = 0;
+        vector<int> ans;
+        for (auto& it : MM){
+            i++;
+            ans.push_back(it.second);
+            if (i== k) break;
         }
         return ans;
-        
         
     }
 };
