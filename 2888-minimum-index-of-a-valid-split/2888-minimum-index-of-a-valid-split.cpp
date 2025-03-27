@@ -19,8 +19,8 @@ public:
         }
         int val = 0;
         for (int i = 0; i< n; i++){
-            if (nums[i] == major) val++;
-            if ((val > (i+1)/2) && (cnt-val > (n-i-1)/2)) return i;
+            if (nums[i] == major) val++, cnt--;
+            if ((val > (i+1)/2) && (cnt > (n-i-1)/2)) return i;
         }
         return -1;
 
