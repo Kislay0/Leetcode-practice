@@ -3,18 +3,19 @@ class Solution {
 public:
     int minimumIndex(vector<int>& nums) {
         int dif = -1;
-        unordered_map<int,int> mp;
+        int major = nums[0];
         for (int num : nums){
-            mp[num]++;
+            if (num == major) dif++;
+            else dif--;
+            if (dif<0) {
+                major = num;
+                dif = 0;
+            }
         }
         int n = nums.size();
         int cnt = 0;
-        int major = INT_MIN;
-        for (auto row : mp){
-            if (row.second>cnt){
-                cnt = row.second;
-                major = row.first;
-            }
+        for (int i = 0; i< n; i++){
+            if (nums[i] == major) cnt++;
         }
         int val = 0;
         for (int i = 0; i< n; i++){
