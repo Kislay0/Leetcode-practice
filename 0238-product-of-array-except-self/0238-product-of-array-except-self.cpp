@@ -1,3 +1,4 @@
+auto _ = cin.tie(nullptr) -> sync_with_stdio(false);
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
