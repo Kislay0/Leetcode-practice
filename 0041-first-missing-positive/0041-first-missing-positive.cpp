@@ -10,7 +10,7 @@ public:
             i++;
         }
         for (int i = 0; i< nums.size(); i++){
-            if (nums[i]<=0 || i != nums[i] - 1) {
+            if ( i+1 != nums[i]) {
                 return i+1;
             }
         }
