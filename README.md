@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kislay0/Leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -51,12 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kislay0/Leetcode-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kislay0/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -69,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Kislay0/Leetcode-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Kislay0/Leetcode-practice/tree/master/3430-count-days-without-meetings) |
@@ -103,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
@@ -141,4 +147,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
