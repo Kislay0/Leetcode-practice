@@ -6,6 +6,5 @@ public:
             ans ^= i^nums[i];
         }
         return ans;
-        
     }
 };
