@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Kislay0/Leetcode-practice/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
