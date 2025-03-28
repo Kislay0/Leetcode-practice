@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Kislay0/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kislay0/Leetcode-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kislay0/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Kislay0/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
