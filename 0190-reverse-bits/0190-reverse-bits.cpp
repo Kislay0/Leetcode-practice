@@ -4,7 +4,7 @@ public:
         uint32_t rbits = 0;
         for (int i = 0; i<32; i++){
             rbits = (rbits<<1);
-            rbits = (rbits | (n&1));
+            if (n & 1) rbits = rbits | 1;
             n = n>>1;
             if (!n) {
                 rbits = rbits<<(31-i);
