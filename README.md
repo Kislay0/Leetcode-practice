@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Kislay0/Leetcode-practice/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Kislay0/Leetcode-practice/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kislay0/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kislay0/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Stack
 |  |
