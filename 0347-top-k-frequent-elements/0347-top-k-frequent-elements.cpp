@@ -1,22 +1,48 @@
 const auto _= cin.tie(nullptr) -> sync_with_stdio(false);
 class Solution {
+private:
+    vector<int> unique;
+    map<int, int> mp;
 public:
+    int partition(int lo, int hi){
+
+        int pivot_freq = mp[unique[hi]];
+        int j = lo-1;
+        for (int i = lo; i<hi; i++){
+            if (mp[unique[i]] < pivot_freq) swap(unique[i], unique[++j]);
+        }
+        swap (unique[hi], unique[++j]);
+        return j;
+        
+    }
+
+    void Quickselect(int lo, int hi, int kth){
+        if (lo == hi) return;
+
+        int pivot = partition(lo, hi);
+        if (pivot == kth) return;
+        if (pivot > kth) {
+            Quickselect(lo, pivot -1, kth);
+        }
+        else {
+            Quickselect(pivot+1, hi, kth);
+        }
+    }
+
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map <int, int> mp;
-        for (int num: nums){
+        if (k == nums.size()) {
+            return nums;
+        }
+        for (int  num: nums){
             mp[num]++;
         }
-        multimap<int, int, greater<int>> MM;
-        for (auto val : mp){
-            MM.insert({val.second, val.first});
+        int n = mp.size();
+        for (auto p : mp){
+            unique.push_back(p.first);
         }
-        int i = 0;
-        vector<int> ans;
-        for (auto& it : MM){
-            i++;
-            ans.push_back(it.second);
-            if (i== k) break;
-        }
+        Quickselect(0, n-1, n - k);
+
+        vector<int> ans(unique.begin()+ n - k, unique.end());
         return ans;
         
     }
