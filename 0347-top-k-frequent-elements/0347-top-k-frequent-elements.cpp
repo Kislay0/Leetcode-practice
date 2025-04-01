@@ -8,11 +8,11 @@ public:
 
         swap(unique[hi], unique[pivot]);
         int pivot_freq = mp[unique[hi]];
-        int j = lo-1;
+        int j = lo;
         for (int i = lo; i<hi; i++){
-            if (mp[unique[i]] < pivot_freq) swap(unique[i], unique[++j]);
+            if (mp[unique[i]] < pivot_freq) swap(unique[i], unique[j]), j++;
         }
-        swap (unique[hi], unique[++j]);
+        swap (unique[hi], unique[j]);
         return j;
         
     }
