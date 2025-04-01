@@ -1,4 +1,3 @@
-auto _ = cin.tie(nullptr) -> sync_with_stdio(false);
 class Solution {
 public:
     long long mostPoints(vector<vector<int>>& questions) {
@@ -13,10 +12,6 @@ public:
             maxi = max(dp[i], maxi);
             dp[i] = maxi;
         }
-        long long maxsum = 0;
-        for (int i = 0; i<n; i++){
-            maxsum = max(maxsum, dp[i]);
-        }
-        return maxsum;
+        return dp[0];
     }
 };
