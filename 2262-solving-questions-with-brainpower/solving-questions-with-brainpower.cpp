@@ -1,3 +1,4 @@
+auto _ = cin.tie(nullptr) -> sync_with_stdio(false);
 class Solution {
 public:
     long long mostPoints(vector<vector<int>>& questions) {
