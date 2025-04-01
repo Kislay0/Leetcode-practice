@@ -2,24 +2,26 @@ const auto _= cin.tie(nullptr) -> sync_with_stdio(false);
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
+        if (k == nums.size()) {
+            return nums;
+        }
         unordered_map <int, int> mp;
         for (int num: nums){
             mp[num]++;
         }
-        int n = nums.size();
-        vector<vector<int>> freq(n+1);
-        for (auto val : mp){
-            freq[val.second].push_back(val.first);
+        auto comp = [&mp](int n1, int n2) { return mp[n1] > mp[n2];};
+        priority_queue<int, vector<int>, decltype(comp)> heap (comp);
+
+        for (auto p: mp){
+            heap.push(p.first);
+            if (heap.size()>k) heap.pop();
         }
-        vector <int> ans;
-        for (int i = freq.size()-1; i>= 0; i--){
-            for (auto x: freq[i]) {
-                ans.push_back(x);
-                if(--k == 0) return ans;
-            }
+
+        vector<int> ans(k);
+        for(int i = 0; i<k; i++){
+            ans[i] = heap.top();
+            heap.pop();
         }
         return ans;
-        
-        
     }
 };
