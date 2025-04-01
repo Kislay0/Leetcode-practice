@@ -2,7 +2,7 @@ const auto _= cin.tie(nullptr) -> sync_with_stdio(false);
 class Solution {
 private:
     vector<int> unique;
-    map<int, int> mp;
+    unordered_map<int, int> mp;
 public:
     int partition(int lo, int hi, int pivot){
 
