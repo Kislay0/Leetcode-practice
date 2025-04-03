@@ -213,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kislay0/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Kislay0/Leetcode-practice/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
