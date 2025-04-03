@@ -1,13 +1,9 @@
 class Solution {
 public:
     int reverse(int x) {
-        if (x == -2147483648) return 0;
-        int parity;
-        if (x>0) parity = 1;
-        else {
-            parity = -1;
-            x = -x;
-        }
+        if (x == INT_MIN) return 0;
+        int parity = (x>0) ? 1: -1;
+        x = abs(x);
         long ans = 0;
         while (x>0){
             ans = 10*ans + x%10;
