@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Kislay0/Leetcode-practice/tree/master/0338-counting-bits) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kislay0/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Kislay0/Leetcode-practice/tree/master/2262-solving-questions-with-brainpower) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kislay0/Leetcode-practice/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kislay0/Leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -222,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Kislay0/Leetcode-practice/tree/master/0328-odd-even-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
