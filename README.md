@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Kislay0/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kislay0/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Kislay0/Leetcode-practice/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Kislay0/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kislay0/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Kislay0/Leetcode-practice/tree/master/2262-solving-questions-with-brainpower) |
