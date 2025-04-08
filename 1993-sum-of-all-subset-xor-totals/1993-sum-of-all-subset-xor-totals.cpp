@@ -1,38 +1,19 @@
 class Solution {
 public:
     int subsetXORSum(vector<int>& nums) {
-        vector<vector<int>> subsets;
-        // Generate all of the subsets
-        generateSubsets(nums, 0, {}, subsets);
-
-        // Compute the XOR total for each subset and add to the result
-        int result = 0;
-        for (auto& subset : subsets) {
-            int subsetXORTotal = 0;
-            for (int num : subset) {
-                subsetXORTotal ^= num;
-            }
-            result += subsetXORTotal;
-        }
-        return result;
+        int sum = 0;
+        summ(nums, sum, 0, 0);
+        return sum;
     }
-
-private:
-    void generateSubsets(const vector<int>& nums, int index, vector<int> subset,
-                         vector<vector<int>>& subsets) {
-        // Base case: index reached end of nums
-        // Add the current subset to subsets
-        if (index == nums.size()) {
-            subsets.push_back(subset);
+    void summ (vector<int>& nums, int& sum, int i, int x){
+        if (i == nums.size()-1) {
+            sum += x^nums.back();
             return;
         }
-
-        // Generate subsets with nums[i]
-        subset.push_back(nums[index]);
-        generateSubsets(nums, index + 1, subset, subsets);
-        subset.pop_back();
-
-        // Generate subsets without nums[i]
-        generateSubsets(nums, index + 1, subset, subsets);
+        summ(nums,sum, i+1, x);
+        x ^= nums[i];
+        sum += x;
+        summ(nums,sum, i+1, x);
+        return;
     }
 };
