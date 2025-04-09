@@ -5,11 +5,15 @@ public:
         for (int num: nums){
             freq[num]++;
         }
-        int itr = 0;
+        auto itr = freq.begin();
+        // if (itr->second == 1) {
+        //     cout<<"HOW??"<<endl;
+        //     cout<<itr->second;
+        //     return -1;
+        // }
         int ans = 0;
         for(auto [num, f]: freq){
             if (num>k){
-                if (!f&1) return -1;
                 ans++;
             }else if(num== k) continue;
             else return -1;
