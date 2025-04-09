@@ -1,4 +1,4 @@
-
+auto _ = cin.tie(nullptr) -> sync_with_stdio(false);
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
@@ -6,7 +6,7 @@ public:
         int lo = INT_MAX;
         for (int num: nums){
             freq.insert(num);
-            if (lo > num) lo = num;
+            lo = min(lo, num);
         }
         if (lo < k) return -1;
         if (lo == k) return freq.size()-1;
