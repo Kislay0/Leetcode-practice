@@ -1,19 +1,13 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        map<int, int, greater<int>> freq;
+        set<int> freq;
         for (int num: nums){
-            freq[num]++;
+            freq.insert(num);
         }
-        int itr = 0;
-        int ans = 0;
-        for(auto [num, f]: freq){
-            if (num>k){
-                if (!f&1) return -1;
-                ans++;
-            }else if(num== k) continue;
-            else return -1;
-        }
-        return ans;
+        int itr = *freq.begin();
+        if (itr < k) return -1;
+        if (itr == k) return freq.size()-1;
+        return freq.size();
     }
 };
