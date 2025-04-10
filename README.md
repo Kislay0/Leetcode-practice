@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kislay0/Leetcode-practice/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/Kislay0/Leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Kislay0/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
@@ -270,4 +271,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kislay0/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Kislay0/Leetcode-practice/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
