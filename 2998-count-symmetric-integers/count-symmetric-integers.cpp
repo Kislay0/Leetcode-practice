@@ -7,14 +7,19 @@ public:
             //     i = pow(10, (int)log10(i)+1);
             //     continue;
             // }
-            if(10<=i && i<100 && i%11==0){
-                ans++;
-            }else if(1000<i && i<10000){
-                int left=(i/1000)+(i%1000/100);
-                int right=(i%100/10)+(i%10);
-                if(left==right){
-                    ans++;
+            if ((i>10 && i<100) ||(i>1000 && i <10000)){
+                int s = 0;
+                int temp = i;
+                int n = (log10(i)+1)/2;
+                for (int j = 0; j<n; j++){
+                    s += temp%10;
+                    temp /= 10;
                 }
+                for (int j = 0; j<n; j++){
+                    s -= temp%10;
+                    temp /= 10;
+                }
+                if (!s) ans++;
             }
         }
         return ans;
