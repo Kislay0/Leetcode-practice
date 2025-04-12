@@ -3,7 +3,7 @@ public:
     int countSymmetricIntegers(int low, int high) {
         int ans = 0;
         for (int i = low; i <= high; i++) {
-            if (!((int)log10(i) & 1)) {
+            if (i<10 || (i>=100 && i<1000)) {
                 i = pow(10, (int)log10(i)+1);
                 continue;
             }
