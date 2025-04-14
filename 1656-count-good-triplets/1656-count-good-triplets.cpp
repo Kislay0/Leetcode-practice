@@ -1,3 +1,4 @@
+auto _ = cin.tie(0)-> sync_with_stdio(false);
 class Solution {
 public:
     int countGoodTriplets(vector<int>& arr, int a, int b, int c) {
