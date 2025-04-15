@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Kislay0/Leetcode-practice/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kislay0/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0268-missing-number) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Kislay0/Leetcode-practice/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kislay0/Leetcode-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Kislay0/Leetcode-practice/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Kislay0/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Kislay0/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -292,4 +295,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0060-permutation-sequence](https://github.com/Kislay0/Leetcode-practice/tree/master/0060-permutation-sequence) |
 | [2050-count-good-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/2050-count-good-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
