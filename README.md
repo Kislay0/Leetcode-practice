@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kislay0/Leetcode-practice/tree/master/0006-zigzag-conversion) |
+| [0038-count-and-say](https://github.com/Kislay0/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Kislay0/Leetcode-practice/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
