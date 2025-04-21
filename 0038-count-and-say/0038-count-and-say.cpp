@@ -3,7 +3,6 @@ public:
     string countAndSay(int n) {
         if (n==1) return "1";
         string ans = "", str = countAndSay(n - 1);
-        if (str == "1") return "11";
         int cnt = 0;
         char curr = str[0];
         for (char s : str){
