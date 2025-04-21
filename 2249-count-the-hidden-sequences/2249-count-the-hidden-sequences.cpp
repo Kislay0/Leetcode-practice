@@ -6,7 +6,7 @@ public:
             val += dif;
             lo = min(lo, val);
             hi = max(hi, val);
-            if (abs(dif)>abs(upper-lower)) return 0;
+            if (abs(dif)>(upper-lower)) return 0;
         }
         int lowerlimit = lower + (hi - lo);
         return ((upper - lowerlimit + 1) > 0)? (upper - lowerlimit + 1) : 0;
