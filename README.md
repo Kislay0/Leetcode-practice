@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Kislay0/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kislay0/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Kislay0/Leetcode-practice/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Kislay0/Leetcode-practice/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Kislay0/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Kislay0/Leetcode-practice/tree/master/0371-sum-of-two-integers) |
 | [0797-rabbits-in-forest](https://github.com/Kislay0/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/Kislay0/Leetcode-practice/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kislay0/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
