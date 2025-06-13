@@ -17,28 +17,28 @@ public:
             return (nums1[n>>1] + nums1[(n>>1) -1])/ 2.0;
         }
 
-        // Finding sollution in O(1) if all elements in an array are smaller than all elements in second array
+        // // Finding sollution in O(1) if all elements in an array are smaller than all elements in second array
 
-        if (nums1.back()<nums2[0]){                 // If nums1's elements are all smaller than nums2
-            if ((n+m)%2 == 1){
-                return nums2[(m - n)>> 1];
-            }else{
-                if(n == m) {
-                    return (nums1.back() + nums2[0]) / 2.0;
-                }
-                return (nums2[(m-n)>>1] + nums2[((m-n)>>1) -1]) / 2.0;
-            }
-        }
-        else if (nums2.back()<nums1[0]){            // If nums2's elements are all smaller than nums1
-            if ((n+m)%2 == 1){
-                return nums2[(n + m) >> 1];
-            }else{
-                if(n == m) {
-                    return (nums2.back() + nums1[0]) / 2.0;
-                }
-                return (nums2[(n + m) >> 1] + nums2[((n + m) >> 1) - 1]) / 2.0;
-            }
-        }
+        // if (nums1.back()<nums2[0]){                 // If nums1's elements are all smaller than nums2
+        //     if ((n+m)%2 == 1){
+        //         return nums2[(m - n)>> 1];
+        //     }else{
+        //         if(n == m) {
+        //             return (nums1.back() + nums2[0]) / 2.0;
+        //         }
+        //         return (nums2[(m-n)>>1] + nums2[((m-n)>>1) -1]) / 2.0;
+        //     }
+        // }
+        // else if (nums2.back()<nums1[0]){            // If nums2's elements are all smaller than nums1
+        //     if ((n+m)%2 == 1){
+        //         return nums2[(n + m) >> 1];
+        //     }else{
+        //         if(n == m) {
+        //             return (nums2.back() + nums1[0]) / 2.0;
+        //         }
+        //         return (nums2[(n + m) >> 1] + nums2[((n + m) >> 1) - 1]) / 2.0;
+        //     }
+        // }
 
 //Lambda Function to calculate any element at goal position if the two arrays were merged in sorted manner
 
