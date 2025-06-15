@@ -33,11 +33,13 @@ public:
                 }
             }
             else{
-                if (n[i] == xb && xb == n[0]){
-                    b+= "1";  
-                }
-                else if (n[i] == xb){
-                    b+= "0";
+                if (n[i] == xb){
+                    if (xb == n[0]){
+                        b+= "1";
+                    }
+                    else{
+                        b+= "0";
+                    }
                 }
                 else b+= n[i];
             }
