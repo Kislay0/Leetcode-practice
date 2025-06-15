@@ -42,7 +42,7 @@ public:
                 else b+= n[i];
             }
         }
-        cout<<a<<" "<<b;
+        // cout<<a<<" "<<b;
         int a1 = stoi(a);
         int b1 = stoi(b);
         return a1-b1;
