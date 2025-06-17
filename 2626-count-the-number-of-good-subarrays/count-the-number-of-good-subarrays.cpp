@@ -1,4 +1,4 @@
-const auto _ = std::cin.tie(nullptr)->sync_with_stdio(false);
+// const auto _ = std::cin.tie(nullptr)->sync_with_stdio(false);
 
 class Solution {
 public:
