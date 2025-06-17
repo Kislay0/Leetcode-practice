@@ -1,21 +1,30 @@
+const auto _ = std::cin.tie(nullptr)->sync_with_stdio(false);
+
 class Solution {
 public:
     long long countGood(vector<int>& nums, int k) {
-        int n = nums.size();
-        int same = 0, right = -1;
-        unordered_map<int, int> cnt;
+
         long long ans = 0;
-        for (int left = 0; left < n; ++left) {
-            while (same < k && right + 1 < n) {
-                ++right;
-                same += cnt[nums[right]];
-                ++cnt[nums[right]];
+        long long pairs = 0;
+        unordered_map<int,int> mp;
+        int left = 0;
+        int n = nums.size();
+        for (int i = 0; i< n; i++){
+            mp[nums[i]]++;
+            if (mp[nums[i]] > 2){
+                pairs += mp[nums[i]] - 1;
             }
-            if (same >= k) {
-                ans += n - right;
+            else if (mp[nums[i]] > 1) {
+                pairs += (mp[nums[i]] * (mp[nums[i]]-1))>>1;
             }
-            --cnt[nums[left]];
-            same -= cnt[nums[left]];
+            while (pairs >= k){
+                ans += n-i;
+                mp[nums[left]]--;
+                if (mp[nums[left]] < 1) mp.erase(nums[left]);
+                else if (mp[nums[left]] > 1) pairs -=  mp[nums[left]];
+                else pairs -= mp[nums[left]] * (mp[nums[left]] + 1) / 2;
+                left++;
+            }
         }
         return ans;
     }
