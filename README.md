@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kislay0/Leetcode-practice/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/Kislay0/Leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0070-climbing-stairs) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Kislay0/Leetcode-practice/tree/master/0328-odd-even-linked-list) |
 ## Memoization
 |  |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Kislay0/Leetcode-practice/tree/master/0060-permutation-sequence) |
 | [2050-count-good-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
