@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kislay0/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Kislay0/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kislay0/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/Kislay0/Leetcode-practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Kislay0/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kislay0/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kislay0/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kislay0/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kislay0/Leetcode-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
