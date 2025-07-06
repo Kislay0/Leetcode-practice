@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kislay0/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/Kislay0/Leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Kislay0/Leetcode-practice/tree/master/0055-jump-game) |
 | [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Kislay0/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Kislay0/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
