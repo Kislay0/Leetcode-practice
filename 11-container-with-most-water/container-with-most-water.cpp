@@ -8,11 +8,8 @@ public:
             if (height[i]>height[j]){
                 arr = height[j]*(j-i);
                 j--;
-            }else if (height[j]>height[i]){
-                arr = height[i]*(j-i);
-                i++;
             }else{
-                arr = height[j]*(j-i);
+                arr = height[i]*(j-i);
                 i++;
             }
             maxarea = max(arr, maxarea);
