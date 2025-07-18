@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kislay0/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Kislay0/Leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kislay0/Leetcode-practice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Kislay0/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
