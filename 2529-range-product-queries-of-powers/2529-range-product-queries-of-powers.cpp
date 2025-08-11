@@ -20,7 +20,6 @@ public:
             }
             ans.push_back(val);
         }
-        cout<<INT_MAX;
         return ans;
     }
 };
