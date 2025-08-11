@@ -15,7 +15,7 @@ public:
             int lo = temp[0];
             int hi = temp[1];
             long long val = 1;
-            for(int i = lo; i<=hi && i<powers.size(); i++){
+            for(int i = lo; i<=hi; i++){
                 val = (val*powers[i])%(1000000007);
             }
             ans.push_back(val);
