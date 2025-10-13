@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Kislay0/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Kislay0/Leetcode-practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Kislay0/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Kislay0/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Kislay0/Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Kislay0/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Kislay0/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Kislay0/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Kislay0/Leetcode-practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Kislay0/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Kislay0/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kislay0/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Kislay0/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
