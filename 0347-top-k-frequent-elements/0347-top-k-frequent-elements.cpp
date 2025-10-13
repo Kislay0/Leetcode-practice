@@ -1,51 +1,21 @@
-const auto _= cin.tie(nullptr) -> sync_with_stdio(false);
 class Solution {
-private:
-    vector<int> unique;
-    unordered_map<int, int> mp;
 public:
-    int partition(int lo, int hi, int pivot){
-
-        swap(unique[hi], unique[pivot]);
-        int pivot_freq = mp[unique[hi]];
-        int j = lo;
-        for (int i = lo; i<hi; i++){
-            if (mp[unique[i]] < pivot_freq) swap(unique[i], unique[j]), j++;
-        }
-        swap (unique[hi], unique[j]);
-        return j;
-        
-    }
-
-    void Quickselect(int lo, int hi, int kth){
-        if (lo == hi) return;
-
-        int pivot = lo + rand() % (hi - lo + 1);
-        pivot = partition(lo, hi, pivot);
-        if (pivot == kth) return;
-        if (pivot > kth) {
-            Quickselect(lo, pivot -1, kth);
-        }
-        else {
-            Quickselect(pivot+1, hi, kth);
-        }
-    }
-
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        if (k == nums.size()) {
-            return nums;
-        }
-        for (int  num: nums){
-            mp[num]++;
-        }
-        int n = mp.size();
+        unordered_map<int,int>mp;
+        for (int num: nums) mp[num]++;
+        auto cmp = [](pair<int,int> a, pair<int, int> b){
+            return a.first>b.first;
+        };
+        priority_queue<pair<int,int>, vector<pair<int,int>>, decltype(cmp)> heap(cmp);
         for (auto p : mp){
-            unique.push_back(p.first);
+            heap.push({p.second,p.first});
+            if(heap.size()>k) heap.pop();
         }
-        Quickselect(0, n-1, n - k);
-
-        vector<int> ans(unique.begin()+ n - k, unique.end());
+        vector<int> ans;
+        while(!heap.empty()){
+            ans.push_back(heap.top().second);
+            heap.pop();
+        }
         return ans;
-        
     }
 };
