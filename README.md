@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kislay0/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Kislay0/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Kislay0/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kislay0/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Kislay0/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kislay0/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Kislay0/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kislay0/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kislay0/Leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Kislay0/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/Kislay0/Leetcode-practice/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kislay0/Leetcode-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Kislay0/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kislay0/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Kislay0/Leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Kislay0/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kislay0/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2699-count-the-number-of-fair-pairs) |
