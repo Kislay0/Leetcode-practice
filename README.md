@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kislay0/Leetcode-practice/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/Kislay0/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Kislay0/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Kislay0/Leetcode-practice/tree/master/0091-decode-ways) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kislay0/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Kislay0/Leetcode-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0070-climbing-stairs) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kislay0/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kislay0/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
