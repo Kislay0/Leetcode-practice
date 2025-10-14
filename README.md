@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Kislay0/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kislay0/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kislay0/Leetcode-practice/tree/master/0328-odd-even-linked-list) |
 ## Memoization
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Kislay0/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Kislay0/Leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Kislay0/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/2050-count-good-numbers) |
