@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Kislay0/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Kislay0/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
+| [1127-last-stone-weight](https://github.com/Kislay0/Leetcode-practice/tree/master/1127-last-stone-weight) |
 | [1656-count-good-triplets](https://github.com/Kislay0/Leetcode-practice/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/Kislay0/Leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kislay0/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Kislay0/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kislay0/Leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Kislay0/Leetcode-practice/tree/master/1127-last-stone-weight) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kislay0/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Kislay0/Leetcode-practice/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
