@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kislay0/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Kislay0/Leetcode-practice/tree/master/0155-min-stack) |
 | [1720-crawler-log-folder](https://github.com/Kislay0/Leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kislay0/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
@@ -406,4 +407,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kislay0/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kislay0/Leetcode-practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
