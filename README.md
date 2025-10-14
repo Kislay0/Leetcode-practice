@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kislay0/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Kislay0/Leetcode-practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kislay0/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kislay0/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
@@ -444,4 +447,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kislay0/Leetcode-practice/tree/master/0155-min-stack) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
