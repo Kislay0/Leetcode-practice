@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Kislay0/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Kislay0/Leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0739-daily-temperatures](https://github.com/Kislay0/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Kislay0/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/Kislay0/Leetcode-practice/tree/master/1656-count-good-triplets) |
@@ -339,12 +340,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kislay0/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kislay0/Leetcode-practice/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Kislay0/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1720-crawler-log-folder](https://github.com/Kislay0/Leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kislay0/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Kislay0/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kislay0/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
