@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kislay0/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Kislay0/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Kislay0/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Kislay0/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kislay0/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kislay0/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Kislay0/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Kislay0/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kislay0/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Kislay0/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Kislay0/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Kislay0/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Kislay0/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kislay0/Leetcode-practice/tree/master/0328-odd-even-linked-list) |
@@ -473,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kislay0/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Kislay0/Leetcode-practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
