@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Kislay0/Leetcode-practice/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Kislay0/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kislay0/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Kislay0/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kislay0/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [1720-crawler-log-folder](https://github.com/Kislay0/Leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kislay0/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
