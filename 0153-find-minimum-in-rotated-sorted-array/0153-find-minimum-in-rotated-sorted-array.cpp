@@ -6,17 +6,9 @@ public:
         int lo = 0, hi= n-1;
         while(lo<hi){
             int mid = (hi + lo)/2;
-            // cout<<mid<<" "<<lo<<" "<<hi<<"\n";
-            // cout<<nums[lo]<<" "<<nums[mid]<<" "<<nums[hi]<<"\n";
             if (nums[lo]<nums[hi]) return nums[lo];
-            if (nums[mid]<nums[lo]) {
-                hi = mid;
-                ans = mid;
-            }
-            else{
-                // cout<<"Check\n";
-                lo = mid+1;
-            }
+            if (nums[mid]<nums[lo]) hi = mid;
+            else lo = mid+1;
         }
         return nums[hi];
     }
