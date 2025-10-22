@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Kislay0/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kislay0/Leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Kislay0/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
+| [0883-car-fleet](https://github.com/Kislay0/Leetcode-practice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Kislay0/Leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Kislay0/Leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Kislay0/Leetcode-practice/tree/master/1127-last-stone-weight) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Kislay0/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Kislay0/Leetcode-practice/tree/master/0368-largest-divisible-subset) |
+| [0883-car-fleet](https://github.com/Kislay0/Leetcode-practice/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Kislay0/Leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kislay0/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kislay0/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kislay0/Leetcode-practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Kislay0/Leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Kislay0/Leetcode-practice/tree/master/0883-car-fleet) |
 | [1720-crawler-log-folder](https://github.com/Kislay0/Leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kislay0/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kislay0/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Kislay0/Leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Kislay0/Leetcode-practice/tree/master/0883-car-fleet) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kislay0/Leetcode-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
