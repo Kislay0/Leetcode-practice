@@ -6,6 +6,7 @@ private:
         for (int i = index; i< candidates.size(); i++){
             curr = temp;
             subset = tempset;
+            // cout<<curr<<" "<<i<<endl;
             if (curr + candidates[i] > target) continue;
             if (curr + candidates[i] == target) {
                 subset.push_back(candidates[i]);
