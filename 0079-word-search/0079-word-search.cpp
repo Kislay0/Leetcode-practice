@@ -18,6 +18,16 @@ private:
 public:
     bool exist(vector<vector<char>>& board, string word) {
         int len = board.size()*board[0].size();
+        if(word[0]!= word[word.size()-1]){
+            int scnt = 0, ecnt = 0;
+            for (int i = 0; i<board.size(); i++){
+                for (int j = 0; j<board[0].size(); j++){
+                    if(board[i][j] == word[0]) scnt++;
+                    else if(board[i][j] == word[word.size()-1]) ecnt++;
+                }
+            }
+            if (ecnt>scnt) reverse(word.begin(), word.end());
+        }
         if (len<word.size()) return false;
         vector<bool>temp(board[0].size(), false);
         for (int i = 0; i< board.size(); i++){
