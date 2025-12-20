@@ -1,24 +1,22 @@
 class Solution {
-    void sol(vector<int>& nums, vector<bool>& seen, vector<int>&subset, vector<vector<int>>& ans){
-        if (subset.size() == nums.size()) {
-            ans.push_back(subset);
+    void sol(vector<int>& nums, int depth, vector<vector<int>>& ans){
+        if (depth == nums.size()) {
+            ans.push_back(nums);
             return;
-        }
-        for (int i = 0; i<nums.size(); i++){
-            if(seen[i]) continue;
-            subset.push_back(nums[i]);
-            seen[i] = true;
-            sol(nums, seen, subset, ans);
-            seen[i] = false;
-            subset.pop_back();
+        } 
+        for (int i = depth; i<nums.size(); i++){
+            swap(nums[i], nums[depth]);
+            sol(nums, depth + 1, ans);
+            swap(nums[i], nums[depth]);
         }
     }
 public:
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<bool> seen(nums.size(), false);
-        vector<int> subset;
+        // vector<bool> seen(nums.size(), false);
+        // vector<int> subset;
         vector<vector<int>> ans;
-        sol(nums, seen, subset, ans);
+        sol(nums, 0, ans);
         return ans;
     }
 };
+
