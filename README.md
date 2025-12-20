@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Kislay0/Leetcode-practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Kislay0/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Kislay0/Leetcode-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Kislay0/Leetcode-practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kislay0/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Kislay0/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Kislay0/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Kislay0/Leetcode-practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Kislay0/Leetcode-practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Kislay0/Leetcode-practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Kislay0/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kislay0/Leetcode-practice/tree/master/0242-valid-anagram) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kislay0/Leetcode-practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kislay0/Leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Kislay0/Leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Kislay0/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Kislay0/Leetcode-practice/tree/master/0079-word-search) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kislay0/Leetcode-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
@@ -470,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kislay0/Leetcode-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Kislay0/Leetcode-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Kislay0/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Kislay0/Leetcode-practice/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kislay0/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
