@@ -8,7 +8,7 @@ class Solution {
                 subset.push_back(candidates[i]);
                 ans.push_back(subset);
                 subset.pop_back();
-                return;
+                continue;
             }
             if(candidates[i] > target){
                 continue;
