@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Kislay0/Leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Kislay0/Leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Kislay0/Leetcode-practice/tree/master/1127-last-stone-weight) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Kislay0/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1656-count-good-triplets](https://github.com/Kislay0/Leetcode-practice/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/Kislay0/Leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kislay0/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/Kislay0/Leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0797-rabbits-in-forest](https://github.com/Kislay0/Leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/Kislay0/Leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Kislay0/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1500-count-largest-group](https://github.com/Kislay0/Leetcode-practice/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Kislay0/Leetcode-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kislay0/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -551,4 +553,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Kislay0/Leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Kislay0/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
