@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/Kislay0/Leetcode-practice/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/Kislay0/Leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kislay0/Leetcode-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kislay0/Leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/Kislay0/Leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kislay0/Leetcode-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Kislay0/Leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Kislay0/Leetcode-practice/tree/master/1500-count-largest-group) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kislay0/Leetcode-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Kislay0/Leetcode-practice/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Kislay0/Leetcode-practice/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kislay0/Leetcode-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/Kislay0/Leetcode-practice/tree/master/1720-crawler-log-folder) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Kislay0/Leetcode-practice/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kislay0/Leetcode-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
@@ -554,4 +558,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Kislay0/Leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Kislay0/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Kislay0/Leetcode-practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
